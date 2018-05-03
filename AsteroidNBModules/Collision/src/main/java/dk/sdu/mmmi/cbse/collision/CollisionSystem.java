@@ -88,12 +88,12 @@ public class CollisionSystem implements IPostEntityProcessingService {
         // I cast to int to have more precise collision detection
         double pythagoras = Math.pow((int) mainObjPos.getX() - (int) foreignObjPos.getX(), 2) + Math.pow((int) mainObjPos.getY() - (int) foreignObjPos.getY(), 2);
 
-        if ((int) pythagoras == 0 || ((int) foreignObjPos.getX() == (int) mainObjPos.getY() && (int) foreignObjPos.getY() == (int) mainObjPos.getY())) {
+        /*if ((int) pythagoras == 0 || ((int) foreignObjPos.getX() == (int) mainObjPos.getY() && (int) foreignObjPos.getY() == (int) mainObjPos.getY())) {
             System.out.println("Faulty collision detected.");
             return false;
-        }
+        }*/
         // We then make use of the distance formula
-        if (Math.sqrt((int) pythagoras) < foreignObj.getRadius() + mainObj.getRadius()) {
+        if (Math.sqrt((int) pythagoras) <= foreignObj.getRadius() + mainObj.getRadius()) {
             LifePart mainObjLP = mainObj.getPart(LifePart.class);
             LifePart foreignObjLP = foreignObj.getPart(LifePart.class);
 
