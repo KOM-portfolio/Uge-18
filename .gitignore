@@ -1,0 +1,15 @@
+/AsteroidNBModules/application/target/
+/AsteroidNBModules/branding/target/
+/AsteroidNBModules/Common/target/
+/AsteroidNBModules/Core/target/
+/AsteroidNBModules/Player/target/
+/AsteroidNBModules/SilentUpdate/target/
+/AsteroidNBModules/CommonAsteroid/target/
+/AsteroidNBModules/Asteroid/target/
+/AsteroidNBModules/CommonEnemy/target/
+/AsteroidNBModules/Enemy/target/
+/AsteroidNBModules/CommonPlayer/target/
+/AsteroidNBModules/CommonLaser/target/
+/AsteroidNBModules/Laser/target/
+/AsteroidNBModules/Collision/target/
+/AsteroidNBModules/AsteroidSplitter/target/
