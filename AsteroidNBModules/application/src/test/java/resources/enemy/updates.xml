@@ -80,10 +80,10 @@
 
 </module> -->
 
-<!-- <module codenamebase="dk.sdu.mmmi.cbse.Enemy" distribution="Enemy-1.0.1-SNAPSHOT.nbm" downloadsize="0" license="B2517D31" needsrestart="false" releasedate="2018/05/03" targetcluster="asteroidnbmodules">
+<module codenamebase="dk.sdu.mmmi.cbse.Enemy" distribution="Enemy-1.0.1-SNAPSHOT.nbm" downloadsize="0" license="B2517D31" needsrestart="false" releasedate="2018/05/03" targetcluster="asteroidnbmodules">
     <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Enemy" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0.1-20180503" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.util.lookup &gt; 8.33.1, dk.sdu.mmmi.cbse.Common &gt; 1.0.1, dk.sdu.mmmi.cbse.CommonEnemy &gt; 1.0.1, dk.sdu.mmmi.cbse.CommonLaser &gt; 1.0.1" OpenIDE-Module-Name="Enemy" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.1"/>
     
-</module> -->
+</module>
 
 <module codenamebase="dk.sdu.mmmi.cbse.CommonEnemy" distribution="CommonEnemy-1.0.1-SNAPSHOT.nbm" downloadsize="0" license="B2517D31" needsrestart="false" releasedate="2018/04/09" targetcluster="asteroidnbmodules">
     <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.CommonEnemy" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0.1-20180409" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, dk.sdu.mmmi.cbse.Common &gt; 1.0.1" OpenIDE-Module-Name="CommonEnemy" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.1"/>
@@ -99,8 +99,8 @@
     <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.CommonLaser" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0.1-20180409" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, dk.sdu.mmmi.cbse.Common &gt; 1.0.1" OpenIDE-Module-Name="CommonLaser" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.1"/>
 
 </module>
-<!--
-<module codenamebase="dk.sdu.mmmi.cbse.Laser" distribution="Laser-1.0.1-SNAPSHOT.nbm" downloadsize="0" license="B2517D31" needsrestart="false" releasedate="2018/04/09" targetcluster="asteroidnbmodules">
+
+<!-- <module codenamebase="dk.sdu.mmmi.cbse.Laser" distribution="Laser-1.0.1-SNAPSHOT.nbm" downloadsize="0" license="B2517D31" needsrestart="false" releasedate="2018/04/09" targetcluster="asteroidnbmodules">
     <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Laser" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0.1-20180409" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, dk.sdu.mmmi.cbse.CommonLaser &gt; 1.0.1, dk.sdu.mmmi.cbse.Common &gt; 1.0.1, org.openide.modules &gt; 7.48.1, org.openide.util.ui &gt; 9.6.1" OpenIDE-Module-Name="Laser" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.1"/>
 
 </module>
