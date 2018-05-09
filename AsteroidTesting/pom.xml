@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dk.sdu.mmmi.cbse</groupId>
-    <artifactId>AsteroidNBModules-parent</artifactId>
+    <artifactId>AsteroidTesting-parent</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>AsteroidNBModules-parent</name>
+    <name>AsteroidTesting-parent</name>
 
     <repositories>
         <!--

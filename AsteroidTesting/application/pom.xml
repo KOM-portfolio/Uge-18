@@ -8,10 +8,10 @@
         <version>1.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>AsteroidNBModules-app</artifactId>
+    <artifactId>AsteroidTesting-app</artifactId>
     <packaging>nbm-application</packaging>
 
-    <name>AsteroidNBModules-app</name>
+    <name>AsteroidTesting-app</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

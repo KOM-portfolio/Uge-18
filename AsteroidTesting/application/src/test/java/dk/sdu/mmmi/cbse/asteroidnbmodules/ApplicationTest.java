@@ -17,8 +17,8 @@ import org.openide.util.Lookup;
 public class ApplicationTest extends NbTestCase {
 
     // TODO: Put your own paths here...
-    private static final String ADD_ENEMY_UPDATES_FILE = "C:/Users/chris/Desktop/Development/KOM-Labs/Uge-18/AsteroidNBModules/application/src/test/java/resources/enemy/updates.xml";
-    private static final String REM_ENEMY_UPDATES_FILE = "C:/Users/chris/Desktop/Development/KOM-Labs/Uge-18/AsteroidNBModules/application/src/test/java/resources/delenemy/updates.xml";
+    private static final String ADD_ENEMY_UPDATES_FILE = "C:/Users/chris/Desktop/Development/KOM-Labs/Uge-18/AsteroidTesting/application/src/test/java/resources/enemy/updates.xml";
+    private static final String REM_ENEMY_UPDATES_FILE = "C:/Users/chris/Desktop/Development/KOM-Labs/Uge-18/AsteroidTesting/application/src/test/java/resources/delenemy/updates.xml";
     private static final String UPDATES_FILE = "C:/Users/chris/Desktop/Development/KOM-Labs/Uge-18/netbeans_site/updates.xml";
 
     public static Test suite() {
